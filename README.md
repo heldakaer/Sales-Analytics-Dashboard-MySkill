@@ -11,4 +11,4 @@ This sales analytics and dashboard aims to answer:
 - How are sales distributed across customer segments?
 - Which are the Top 10 products by sales?
 
-You can read the analysis and its workflow here https://medium.com/@heldakaer/microsoft-excel-learning-project-superstore-sales-analytics-and-dashboard-6b4b5a96eb70
+You can read the analysis here https://medium.com/@heldakaer/microsoft-excel-learning-project-superstore-sales-analytics-and-dashboard-6b4b5a96eb70
